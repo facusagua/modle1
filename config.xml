@@ -3,8 +3,8 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "moodle.justucuman.gov.ar"
-        versionCode = "20180"
-        version   = "3.3.0">
+        versionCode = "1"
+        version   = "1.0">
     <name>Escuela de Capacitacion Mninisterio</name>
 
     <description>
