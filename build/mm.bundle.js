@@ -59904,7 +59904,7 @@ angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
     "app_id" : "moodle.justucuman.gov.ar",
-    "appname": "Ministerio de Justicia",
+    "appname": "Escuela MPF",
     "versioncode" : "1",
     "versionname" : "1.0",
     "cache_expiration_time" : 300000,

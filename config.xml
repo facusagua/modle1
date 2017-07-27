@@ -5,14 +5,14 @@
         id        = "moodle.justucuman.gov.ar"
         versionCode = "1"
         version   = "1.0">
-    <name>Escuela de Capacitación Ministerio</name>
+    <name>Escuela MPF</name>
 
     <description>
-        Escuela de Capacitación Ministerio de Justicia
+        Escuela Ministerio Público Fiscal
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-       Facundo Sagua
+    <author href="http://www.widux.com.ar" email="facusagua@widux.com.ar">
+       Widux Software Web
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
