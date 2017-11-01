@@ -48,7 +48,9 @@
                         </a>
                     </li>
                     <li>
-                         <i class="icon ion-earth"></i>Escuela Info
+                        <a menu-close class="item item-icon-left" ng-href="{{siteinfo.siteurl}}" mm-link auto-login="yes" title="{{ 'mm.sidemenu.website' | translate}}">
+                            <i class="icon ion-earth"></i>{{ 'mm.sidemenu.website' | translate}}
+                        </a>
                     </li>
                     <li ng-if="showWeb">
                         <a menu-close class="item item-icon-left" ng-href="{{siteinfo.siteurl}}" mm-link auto-login="yes" title="{{ 'mm.sidemenu.website' | translate}}">
