@@ -59903,8 +59903,8 @@ angular.module('mm.addons.messageoutput_airnotifier')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "moodle.justucuman.gov.ar",
-    "appname": "Escuela MPF",
+    "app_id" : "capacitacion.mpftucuman.gob.ar",
+    "appname": "Capacitación MPF",
     "versioncode" : "1",
     "versionname" : "1.0",
     "cache_expiration_time" : 300000,
@@ -59912,7 +59912,7 @@ angular.module('mm.core')
     "languages": {"ar": "عربي", "bg": "Български", "ca": "Català", "cs": "Čeština", "da": "Dansk", "de": "Deutsch", "el": "Ελληνικά", "en": "English", "es": "Español", "es-mx": "Español - México", "eu": "Euskara", "fa": "فارسی", "fr" : "Français", "he" : "עברית", "hu": "magyar", "it": "Italiano", "ja": "日本語","nl": "Nederlands", "pl": "Polski", "pt-br": "Português - Brasil", "pt": "Português - Portugal", "ro": "Română", "ru": "Русский", "sv": "Svenska", "tr" : "Türkçe", "uk" : "Українська", "zh-cn" : "简体中文", "zh-tw" : "正體中文"},
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
-    "presets" : {"url": "moodle.justucuman.gov.ar", "username": ""},
+    "presets" : {"url": "capacitacion.mpftucuman.gob.ar", "username": ""},
     "sync_ws_on" : true,
     "sync_css_on" : true,
     "sync_cron": 300000,
@@ -59923,7 +59923,7 @@ angular.module('mm.core')
     "notifications_enabled": true,
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "moodle.justucuman.gov.ar",
+    "siteurl": "capacitacion.mpftucuman.gob.ar",
     // "app_id" : "moodle.justucuman.gov.ar",
     // "appname": "Ministerio de Justicia",
     // "versioncode" : "1",
